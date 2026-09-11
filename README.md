@@ -61,7 +61,7 @@ Dhaka, Bangladesh
 
 - LinkedIn: https://linkedin.com/in/samsunnahar
 - GitHub: https://github.com/samsunnaharsrity
-- Portfolio: https://my-portfolio2-seven-chi.vercel.app/
+- Professional Portfolio: https://my-portfolio2-seven-chi.vercel.app/
 - Email: smasunnaharsrity@gmail.com
 
 ## Task Submission Checklist
